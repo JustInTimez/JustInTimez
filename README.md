@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Justin</h1>
-<h3 align="center">A passionate and in training full stack developer from South Africa!</h3>
+<h3 align="center">A passionate junior Full Stack developer from South Africa!</h3>
 
 - 👨‍💻 All of my projects are available at: [https://github.com/JustInTimez](https://github.com/JustInTimez)
 
