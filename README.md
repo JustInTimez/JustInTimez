@@ -6,7 +6,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justintimez&layout=compact)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justintimez)](https://github.com/anuraghazra/github-readme-stats)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=justintimez&show_icons=true&locale=en&theme=dark" alt="justintimez" /></p>
 
