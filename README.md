@@ -7,7 +7,7 @@
 
 - ⚡ Fun Fact: **Mechanical keyboards (brown switches) and coding go very well together! <i>Click Click!</i>**
 
-- ⚡⚡ Dbl FunFact: Currently learning Python on the side, in progress with <a href="https://www.udemy.com/course/100-days-of-code/">Angela Yu's Python Pro</a> course!
+- ⚡⚡ Dbl FunFact: Currently learning Python on the side, in progress with <a href="https://www.udemy.com/course/100-days-of-code/" target="_blank">Angela Yu's Python Pro</a> course!
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=justintimez&show_icons=true&locale=en&theme=dark" alt="justintimez" /></p>
 
